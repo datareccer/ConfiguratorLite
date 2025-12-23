@@ -1,0 +1,13 @@
+attrs==25.4.0
+click==8.3.1
+colorama==0.4.6
+jsonschema==4.25.1
+jsonschema-specifications==2025.9.1
+markdown-it-py==4.0.0
+mdurl==0.1.2
+Pygments==2.19.2
+PyYAML==6.0.3
+referencing==0.37.0
+rich==14.2.0
+rpds-py==0.30.0
+typing_extensions==4.15.0
