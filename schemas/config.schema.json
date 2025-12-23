@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": ["name", "mode"],
+  "properties": {
+    "name": { "type": "string", "minLength": 1 },
+    "mode": { "type": "string", "enum": ["lite"] },
+    "enabled": { "type": "boolean" }
+  },
+  "additionalProperties": false
+}
